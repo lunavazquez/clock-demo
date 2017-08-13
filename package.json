@@ -4,7 +4,7 @@
   "description": "demo de un reloj construido con js y css vanilla",
   "main": "index.js",
   "scripts": {
-    "start": "http-server ./public -a 0.0.0.0 -p 8081 -o -i"
+    "start": "http-server ./public -a 0.0.0.0 -p 8080 -o -i"
   },
   "keywords": [],
   "author": "@lunavazquez",

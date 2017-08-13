@@ -1,3 +1,17 @@
 body {
-    background: red;
+    background: purple;
+    color: white;
+}
+
+.clock {
+    height: 100px;
+    margin: 0 auto;
+    margin-top: -50px;
+    font-size: 100px;
+    line-height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    text-align: center;
+    width: 100%;
 }
